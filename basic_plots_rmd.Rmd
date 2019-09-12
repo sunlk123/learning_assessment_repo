@@ -1,8 +1,8 @@
 ---
 title: "Basic Plots"
 author: "Jeff Goldsmith"
-date: 2019-09-10
-output: html_document
+date: 2019-09-12
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
